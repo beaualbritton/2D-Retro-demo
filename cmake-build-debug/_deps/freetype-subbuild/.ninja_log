@@ -1,0 +1,23 @@
+# ninja log v5
+2	130	7553128760200383	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	96d593d8cb7082b3
+3701	3799	7553128796939578	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	34e461bafbf5255f
+4125	4238	7553128801304977	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	8b632f883f9acbbc
+2	130	7553128760200383	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	96d593d8cb7082b3
+3701	3799	7553128796939578	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	34e461bafbf5255f
+135	3700	7553128795920379	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	ea5a8cf927d6a6ec
+135	3700	7553128795920379	freetype-populate-prefix/src/freetype-2.13.2.tar.xz	ea5a8cf927d6a6ec
+135	3700	7553128795920379	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-2.13.2.tar.xz	ea5a8cf927d6a6ec
+135	3700	7553128795920379	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	ea5a8cf927d6a6ec
+3800	3887	7553128797794216	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	bd64a47d3ecde2c
+3800	3887	7553128797794216	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	bd64a47d3ecde2c
+3888	4001	7553128798943350	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	ea7c0082fe292a3f
+3888	4001	7553128798943350	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	ea7c0082fe292a3f
+4002	4124	7553128800171876	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	c6442fa4b135890e
+4002	4124	7553128800171876	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	c6442fa4b135890e
+4125	4238	7553128801304977	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	8b632f883f9acbbc
+4239	4341	7553128802369831	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	28f39e9b7c3fd75d
+4239	4341	7553128802369831	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	28f39e9b7c3fd75d
+4341	4494	7553128803856078	CMakeFiles/freetype-populate-complete	d2772d2e8c3ee87b
+4341	4494	7553128803856078	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	d2772d2e8c3ee87b
+4341	4494	7553128803856078	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	d2772d2e8c3ee87b
+4341	4494	7553128803856078	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	d2772d2e8c3ee87b

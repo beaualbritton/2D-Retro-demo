@@ -1,0 +1,37 @@
+# ninja log v5
+4	130	7553128819606848	glad-populate-prefix/src/glad-populate-stamp/glad-populate-mkdir	4030fa8f2194470f
+2922	3036	7554134763933118	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-done	d93cc60605c4e140
+7	2518	0	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-update	b0b9f26d6a974467
+4	130	7553128819606848	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-mkdir	4030fa8f2194470f
+136	4575	7553128864063206	glad-populate-prefix/src/glad-populate-stamp/glad-populate-download	32e8ea6bbbbd4e61
+136	4575	7553128864063206	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-download	32e8ea6bbbbd4e61
+7	2518	0	glad-populate-prefix/src/glad-populate-stamp/glad-populate-update	b0b9f26d6a974467
+2519	2601	7554134759593775	glad-populate-prefix/src/glad-populate-stamp/glad-populate-patch	658db21a62204e1a
+2519	2601	7554134759593775	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-patch	658db21a62204e1a
+2601	2679	7554134760367641	glad-populate-prefix/src/glad-populate-stamp/glad-populate-configure	e0fe644c38bfbdfa
+2601	2679	7554134760367641	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-configure	e0fe644c38bfbdfa
+2680	2762	7554134761175932	glad-populate-prefix/src/glad-populate-stamp/glad-populate-build	d57be75e108cab48
+2680	2762	7554134761175932	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-build	d57be75e108cab48
+2922	3036	7554134763933118	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/glad-subbuild/CMakeFiles/glad-populate-complete	d93cc60605c4e140
+2762	2848	7554134762006936	glad-populate-prefix/src/glad-populate-stamp/glad-populate-install	d38f805353a0fccb
+2762	2848	7554134762006936	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-install	d38f805353a0fccb
+2848	2922	7554134762814422	glad-populate-prefix/src/glad-populate-stamp/glad-populate-test	42328f2abdf70e6
+2848	2922	7554134762814422	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-test	42328f2abdf70e6
+2922	3036	7554134763933118	CMakeFiles/glad-populate-complete	d93cc60605c4e140
+2922	3036	7554134763933118	glad-populate-prefix/src/glad-populate-stamp/glad-populate-done	d93cc60605c4e140
+33	3148	0	glad-populate-prefix/src/glad-populate-stamp/glad-populate-update	b0b9f26d6a974467
+33	3148	0	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-update	b0b9f26d6a974467
+3149	3263	7554134883388813	glad-populate-prefix/src/glad-populate-stamp/glad-populate-patch	658db21a62204e1a
+3149	3263	7554134883388813	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-patch	658db21a62204e1a
+3263	3379	7554134884544148	glad-populate-prefix/src/glad-populate-stamp/glad-populate-configure	e0fe644c38bfbdfa
+3263	3379	7554134884544148	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-configure	e0fe644c38bfbdfa
+3379	3455	7554134885322632	glad-populate-prefix/src/glad-populate-stamp/glad-populate-build	d57be75e108cab48
+3379	3455	7554134885322632	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-build	d57be75e108cab48
+3455	3550	7554134886258185	glad-populate-prefix/src/glad-populate-stamp/glad-populate-install	d38f805353a0fccb
+3455	3550	7554134886258185	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-install	d38f805353a0fccb
+3550	3674	7554134887497108	glad-populate-prefix/src/glad-populate-stamp/glad-populate-test	42328f2abdf70e6
+3550	3674	7554134887497108	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-test	42328f2abdf70e6
+3674	3847	7554134889225598	CMakeFiles/glad-populate-complete	d93cc60605c4e140
+3674	3847	7554134889225598	glad-populate-prefix/src/glad-populate-stamp/glad-populate-done	d93cc60605c4e140
+3674	3847	7554134889225598	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/glad-subbuild/CMakeFiles/glad-populate-complete	d93cc60605c4e140
+3674	3847	7554134889225598	C:/Users/albri/Documents/school/fall2024/advanced programming/Final-Project-balbritt/cmake-build-debug/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-done	d93cc60605c4e140
