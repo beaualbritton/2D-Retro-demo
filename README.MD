@@ -1,5 +1,4 @@
 ## Beau Albritton
-### Advanced Programming
 #### 2D Platformer RPG Demo
 
 #### Summary
